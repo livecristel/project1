@@ -1399,7 +1399,7 @@ a:focus {
 }
 /*8*/
 .page-title8 {
-  background: url("https://content.presspage.com/uploads/1946/londonstanstedjobsfairharlow-theroom-386510.jpg?10000") center center/cover no-repeat local;
+  background: url("../img/utpl1.png") center center/cover no-repeat local;
   height: 365px;
   text-align: center;
   position: relative;
@@ -1459,7 +1459,7 @@ a:focus {
 }
 /*9*/
 .page-title9 {
-  background: url("https://www.ankleshwarexpo.com/images/pastgallery/big/2018/7.jpg") center center/cover no-repeat local;
+  background: url("../img/utpl6.png") center center/cover no-repeat local;
   height: 365px;
   text-align: center;
   position: relative;
@@ -9989,7 +9989,7 @@ img{
     margin: 30px 0;
   }
   .section-title-s2 h2{
-    font-size: 30px;
+    font-size: 25px;
     margin: 10px;
   }
   .section-title-s2 p{
@@ -12246,6 +12246,12 @@ table, th, td {
     margin-right: 5px;
   
   }
+  h4 {
+    font-size: 17px;
+}
+.content .left-side .details .text-one{
+  font-size: 15px;
+}
   
 }
 
